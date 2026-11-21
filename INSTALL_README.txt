@@ -1,0 +1,1 @@
+Dynasty of Heroes website lightweight edition. Open index.html. All 90 comic pages and playable demo included. For soundtrack, extract separate DOH_Soundtrack_Addon.zip into this same DOH_Cinematic_Website folder.

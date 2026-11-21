@@ -1,0 +1,10 @@
+Dynasty of Heroes — Cinematic Website V1.2 Review
+
+1. Open index.html, or use a local web server for best browser compatibility.
+2. Navigate Home, Story, Characters, Comics, Animation, Soundtrack, Game.
+3. Comic Reader: episode selector; English/Myanmar; Single, Double, Scroll; zoom and fullscreen; remembers last read page.
+4. Names: Mg Kyan for young stages, King Kyan for age 27. Original PDF images retain their embedded lettering.
+5. Characters: new clean crops from uploaded character sheets.
+6. Game: Princess Pyin Sa unit sprite is trimmed and enlarged to show full figure; other game functionality retained.
+7. Soundtrack: optional; audio assets may be absent in the small package.
+This is a review build. Please report any individual page or model that needs further tuning.
